@@ -17,10 +17,13 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <br/>
 <span class="contacticon center">
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://github.com/witwiki" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://angel.co/witwiki" target="_blank"><i class="fa fa-angellist"></i></a>
+	<a href="http://earoshthime.tumblr.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+	<a href="https://soundcloud.com/witwiki3" target="_blank"><i class="fa fa-soundcloud"></i></a>
+	<a href="https://medium.com/my-soul" target="_blank"><i class="fa fa-medium"></i></a>
+	<a href="https://twitter.com/vikudyawer" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="#" target="_blank"><i class="fa fa-btc"></i></a>
 </span>
 
 <div class="col three caption">
