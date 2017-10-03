@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/profPic.jpg">
+<img class="col one right" src="/img/profpic.jpg">
 
 <br/>
 My name is Vikram Udyawer. I grew up in four different countries as a child (Dubai-U.A.E.; Bangalore-India; Napier-New Zealand and Sydney-Australia). I have a pretty international background and up-bringing. It's one of my true strengths as for the most part I have a view point from other cultures. It's also the reason why I believe travelling doesn't make people open-minded but rather living in other countries is better at that. This is because you see a nation's culture through their everyday experiences. As a traveller you generally don't because you're on a holiday. I'm also a proponent of a one Earth government since, nation borders change everyday.
