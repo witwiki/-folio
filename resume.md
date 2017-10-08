@@ -8,6 +8,8 @@ title: resume
 {% for pos in site.resume reversed %}
     <li>
         <h2><a class="pos-title" href="{{ pos.url | prepend: site.baseurl }}">{{ pos.title }}</a></h2>
+        <br>
+        <br>
         <p class="post-meta">{{ pos.date | date: '%B %-d, %Y' }}</p>
       </li>
 {% endfor %}

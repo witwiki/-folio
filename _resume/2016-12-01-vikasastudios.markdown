@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vikasa Studios
+title: Developer - Vikasa Studios
 date: 2016-12-01
 ---
 
