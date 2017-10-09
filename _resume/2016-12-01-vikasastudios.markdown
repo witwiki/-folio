@@ -2,7 +2,8 @@
 layout: post
 title: Developer 
 company: Vikasa Studios
-date: 2016-12-01
+fromDate: 2016-12-01
+toDate: Present
 ---
 
 I am the Founder and a developer at Vikasa Studios. 
