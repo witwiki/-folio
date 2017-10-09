@@ -4,6 +4,7 @@ title: Developer
 company: Vikasa Studios
 fromDate: 2016-12-01
 toDate: Present
+siteUrl: http://vstudios.space/
 ---
 
 I am the Founder and a developer at Vikasa Studios. 
